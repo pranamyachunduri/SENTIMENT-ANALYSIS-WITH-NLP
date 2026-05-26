@@ -13,3 +13,4 @@
                                     JUPYTER NOTEBOOK
                 THE MODEL PREDICTS THE ACCURACY SCORE,CLASSIFICATION REPORT,CONFUSION MATRIX
 *OUTPUT*
+<img width="587" height="414" alt="Screenshot 2026-05-26 104911" src="https://github.com/user-attachments/assets/70114921-7b79-4f58-aff6-2c06b4d98fe5" />
